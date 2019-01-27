@@ -10,15 +10,17 @@ You need gcc and <a href="https://www.libsdl.org/">SDL2</a> lib to compile this 
 
 # Current status
 
+<p style="text-align: center;">
 | Status |
 | :-------: |
 | Finish |
+</p>
 
 # Some Screenshots
 
-<center>
+<p style="text-align: center;">
 <img src="https://github.com/Germich3/MiniGame_C/blob/master/Screenshots/1.png?raw=true">
 <img src="https://github.com/Germich3/MiniGame_C/blob/master/Screenshots/2.png?raw=true"> 
 <img src="https://github.com/Germich3/MiniGame_C/blob/master/Screenshots/3.png?raw=true"> 
 <img src="https://github.com/Germich3/MiniGame_C/blob/master/Screenshots/4.png?raw=true"> 
-</center>
+</p>
