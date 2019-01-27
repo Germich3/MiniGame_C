@@ -4,10 +4,6 @@ This game uses assets of "Super Mario Bros"© by Nintendo.
 
 Educational pruposes only.
 
-University of Murcia ™
-
-Subject: Tecnologia de la programación (Spanish Name)
-
 # How to compile
 
 You need gcc and <a href="https://www.libsdl.org/">SDL2</a> lib to compile this source.
@@ -16,7 +12,7 @@ You need gcc and <a href="https://www.libsdl.org/">SDL2</a> lib to compile this 
 
 | Status |
 | :-------: |
-| Working on it |
+| Finish |
 
 # Some Screenshots
 
